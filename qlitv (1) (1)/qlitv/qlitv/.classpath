@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/itextpdf-5.5.12.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/mysql-connector-java-5.1.48-bin.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/servlet.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="D:/qlitv/qlitv/libs/xmlbeans-4.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
